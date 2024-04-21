@@ -1,0 +1,120 @@
+{
+    "data": [
+        {
+            "id": 4,
+            "attributes": {
+                "question": "How to make a refund through PrimeCarers",
+                "answer": "<p>If for any reason you need to refund a payment, you can do this by heading over to your STRIPE account.</p><p>From the PrimeCarers dashboard, clicking on the \"Finance\" tab will take you to your STRIPE account. (you may have to sign in)</p><p>From the STRIPE page, you will see \"payments\" on the left hand side. from there, you should see a list of payments made to you.</p><p>By clicking the three dots on the right hand side of the corresponding payment, you will see a refund button.</p>",
+                "audience": "carer",
+                "slug": "how-to-make-a-refund-through-prime-carers",
+                "createdAt": "2022-09-06T09:21:27.048Z",
+                "updatedAt": "2022-09-06T09:21:28.329Z",
+                "publishedAt": "2022-09-06T09:21:28.325Z"
+            }
+        },
+        {
+            "id": 1,
+            "attributes": {
+                "question": "Booking a paid visit",
+                "answer": "<p>When booking a visit with a client, you should have already discussed what is needed and when. You should have also agreed on a time and date for these visits.</p><p>If you have not already, you should run a risk assessment on your first visit. This will allow you and the client to identify risk, and take the right precautions to avoid them.</p><h3>Why book a visit on the platform?</h3><p>After agreeing on a time for the visits with a client, you should ensure that the client books the visit through the platform.</p><p>This is for safeguarding reasons, If something were to go wrong, then we would have a record.</p><p><strong>If the visit is not accepted or booked, you <u>WILL NOT</u> be insured and <u>WILL NOT</u> get paid</strong>.</p><p>So you must remember to accept the visit as soon as possible. You should also remind the client to book a visit if they haven't already, and you know you will be working.</p><h2>How to book a paid visit?</h2><p>When the client books the visit, you <strong><u>MUST</u> </strong>accept the visit if you are going. If the visit is not accepted, the client will assume that you are not arriving and therefore may not be expecting you, and may have found a replacement.</p><p>If you still arrive after not accepting the visit, you will not be insured or paid for you time there, as we will be unaware due to it not being marked on the system.</p><p>If you do not want to accept the visit for any reason, then you should decline it and let the client know what the problem is.</p>",
+                "audience": "carer",
+                "slug": "booking-a-paid-visit",
+                "createdAt": "2022-08-31T21:42:25.361Z",
+                "updatedAt": "2022-09-06T09:19:50.490Z",
+                "publishedAt": "2022-08-31T21:42:46.213Z"
+            }
+        },
+        {
+            "id": 2,
+            "attributes": {
+                "question": "Booking an introductory visit",
+                "answer": "<p>When booking an introductory visit with a client, you should have both already discussed what is needed and when. You should have also agreed on a time and date for this visit.</p><h2>Why book an introductory visit?</h2><p>An introductory visit gives you and the client a chance to meet each other. Whether it is so that the client can run their own interview, or to just give the client a chance to get to know you in person, before letting you work in their home alone.</p><p>During this visit, it is a good chance to show your professionalism. That is why we suggest it may be a good chance to run a risk assessment.</p><p>We advise that you run a risk assessment either during the introductory visit, or during the first visit.</p><p>Running a risk assessment shows the client that you are professional, and also trustworthy.</p><h3>Why book a visit on the platform?</h3><p>After agreeing on a time for an introductory visit with a client, you should ensure that either you or the client book the visit through the platform.</p><p>This is for safeguarding reasons, and is also good practise, as future paid visits will need to be booked through the platform. <strong>Otherwise you will not be insured, and won't get paid</strong>.</p><h2>How to book an introductory visit?</h2><p>You can book an introductory visit from the messages page on the dashboard. You should ensure that the details on your booking, including time and date, are correct and agreed upon before booking the visit.</p><p>If a client books the visit, you <strong><u>MUST</u> </strong>accept the visit if you are going. If the visit is not accepted, the client will assume that you are not arriving and therefore may not be expecting you. This again is good practise, as you will not be paid in future visits if they are not accepted.</p><p>If you do not want to accept the visit, for any reason, then you should decline it and let the client know what the problem is.</p>",
+                "audience": "carer",
+                "slug": "booking-an-introductory-visit",
+                "createdAt": "2022-09-06T09:20:33.502Z",
+                "updatedAt": "2022-09-06T09:20:34.878Z",
+                "publishedAt": "2022-09-06T09:20:34.873Z"
+            }
+        },
+        {
+            "id": 3,
+            "attributes": {
+                "question": "How are payments handled",
+                "answer": "<p>The biggest question we get is how payments work. We have you sign up to Stripe when you create your profile. Payments are paid into your stripe account, before then being transferred to your bank account.</p><p>For hourly care, clients are charged on the following Sunday after the visit. This means a weekly total payment will be in your stripe account on the Sunday before it is processed and transferred. Up to 10 business days, the payment will be transferred to your bank account.</p><p>Your clients' payment method will determine how long payments may take to reach your personal account.</p><p>Cash from clients paying via card, will hit your personal bank account up to 7 days after the Sunday on which it is charged.</p><p>Cash from clients paying via direct debit, will hit your personal bank account up to 10 days after the Sunday on which it is charged.</p><p>Cash from clients paying via invoice, will hit your personal bank account on the Monday after which they have paid.</p><h2>How do payments work for live-in care?</h2><p>Live-in clients are charged in the same two ways:</p><p>Clients pay for the previous 7 days on the Sunday, where it is paid into your STRIPE account. In which the money is transferred to your personal bank account up to 7 or 10 days after, based on the client's payment method. (As explained above).</p><p>Invoiced clients are invoiced on a Friday and you will be paid directly into your bank account on a Monday.</p><h2>How does the insurance work?</h2><p>All visits booked over the platform with qualified carers are covered by our insurance. We do not insure home assistants at this time. This is provided to us by a specialist carer insurance company, Fish, which covers you if anything happens to the carer or the person being looked after. Click here to read the <a href=\"https://pdfhost.io/v/Pbi6DUOX_Carer_and_Personal_Assistant_Insurance_Policy_Document_front_and_back_16101022.pdf\">full policy document</a>.</p><p>If you have any questions, email us on&nbsp;<a href=\"mailto:admin@primecarers.co.uk\">admin@primecarers.co.uk</a>&nbsp;or give us a call on 02033693624</p><p>&nbsp;</p>",
+                "audience": "carer",
+                "slug": "how-are-payments-handled",
+                "createdAt": "2022-09-06T09:21:02.194Z",
+                "updatedAt": "2022-09-06T09:21:03.553Z",
+                "publishedAt": "2022-09-06T09:21:03.550Z"
+            }
+        },
+        {
+            "id": 5,
+            "attributes": {
+                "question": "How to talk to clients",
+                "answer": "<p>When you first sign up, you may be confused on how exactly you talk to clients. First of all, when clients come to the website, they will search for carers in their area before sending you an automated message.</p><p>This message will tell you where they are, and how far away they are from you. When responding to this first message, you should find out two things.</p><p>What care they need</p><p>When they need care</p><p>These are two important factors that will decide whether or not you can help. If you have the skills they require, but can't quite make the ties/days they require, you should still take this opportunity to find out if they can do different times.</p><p>Some clients are flexible, but you won't know unless you ask. This also shows you're interested.</p><p>It can also be a good idea to offer the client a chance to give you a call. Some clients may struggle to use the website, and so giving them a chance to call, will make it easier for them to discuss their needs with you.</p>",
+                "audience": "carer",
+                "slug": "how-to-talk-to-clients",
+                "createdAt": "2022-09-06T09:21:55.430Z",
+                "updatedAt": "2022-09-06T09:21:56.676Z",
+                "publishedAt": "2022-09-06T09:21:56.672Z"
+            }
+        },
+        {
+            "id": 6,
+            "attributes": {
+                "question": "How to book a paid visit",
+                "answer": "<p>After having an interview with a carer, you may be happy and ready to start booking paid visits. You can book the visit straight from your dashboard in the messaging tab.</p><h2>Booking a paid visit</h2><p>When booking a visit, you should first make sure you and the carer have agreed on a day and time. This will save time when it comes to booking and accepting the visit. You should also check you have booked the right time, to stop any confusion between yourself and your chosen carer.</p><p>When you book a visit, it will be sent to the carer to accept. If possible, you should remind the carer to accept the visit. If you do not have any further contact with the carer, and the visit is not accepted, we would advise you to not expect the carer to show up.</p><p>If the carer does not accept the visit, but still turns up, you should let the visit continue, as the carer would not be insured.</p><p>However, we do understand that sometimes this is not an option, as you may need to be somewhere. So do make sure you contact us as soon as you can to update us on the situation. This way we can make sure the payment is made, and that the visit is recorded.</p><h2>Why book a visit?</h2><p>Booking the visit is important. For safeguarding purposes, if anything were to happen, we would have a record of the visit. This also helps you and the carer keep a note that a visit is upcoming, meaning you will have it in your calendar.</p>",
+                "audience": "client",
+                "slug": "how-to-book-a-paid-visit",
+                "createdAt": "2022-09-06T09:22:35.135Z",
+                "updatedAt": "2022-09-06T09:22:37.864Z",
+                "publishedAt": "2022-09-06T09:22:37.860Z"
+            }
+        },
+        {
+            "id": 7,
+            "attributes": {
+                "question": "How to book an introductory visit",
+                "answer": "<p>After talking with a carer, you may be ready to meet them in person to interview them, or simply get to know them a little. You should do this through our website so that both you and the carer are safe.</p><h2>Booking an introductory visit</h2><p>When booking a visit, you should first make sure you and the carer have agreed on a day and time. This will save time when it comes to booking and accepting the visit.</p><p>When booking the visit, double check that you are not accidently booking a paid visit. We wouldn't want to charge you.</p><p>When you book a visit, it will be sent to the carer to accept. If possible, you should remind the carer to accept the visit. If you do not have any further contact with the carer, and the visit is not accepted, we would advise you to not expect the carer to show up.</p><h2>Why book an introductory visit?</h2><p>An introductory visit gives you the chance to meet your new carer in person, before you begin to pay them to look after your loved one. You can use the booked time to get to know your new carer, or to run a proper interview.</p><p>Booking the visit is important. For safeguarding purposes, if anything were to happen, we would have a record of the visit. This also helps you and the carer keep a note that a visit is upcoming, meaning you will have it in your calendar.</p><h2>Why do I need to enter by bank details?</h2><p>Again, for safeguarding purposes, and to assure that you have a valid way of payment in the future, we ask that you enter your bank details.</p><p>You will enter your details using STRIPE. Entering your details in STRIPE will allow you to use our system to pay carers when you have a paid visit with them, taking away the risk of paying with cash.</p>",
+                "audience": "client",
+                "slug": "how-to-book-an-introductory-visit",
+                "createdAt": "2022-09-06T09:23:07.807Z",
+                "updatedAt": "2022-09-06T09:23:08.880Z",
+                "publishedAt": "2022-09-06T09:23:08.876Z"
+            }
+        },
+        {
+            "id": 8,
+            "attributes": {
+                "question": "How to chat with carers",
+                "answer": "<p>Chatting you your carer is the first thing you will want do on the platform. Getting to know them, and whether they will be someone you want to work with is incredibly important. It is also important to understand whether or not they can do the job and are available to do it. When you first get in touch:</p><p>Let them know what you need</p><p>Let them know what times you need it (remember to indicate whether those times are flexible)</p><p>Ask them if they are comfortable with what has been described</p><p>Arrange an introductory visit</p><p>Suggest a couple of times for you to meet where the care will be delivered</p><p>Agree on a time and date</p><p>Hit \"Book intro visit\" to book the interview and select the time and date agreed</p>",
+                "audience": "client",
+                "slug": "how-to-chat-with-carers",
+                "createdAt": "2022-09-06T09:23:41.957Z",
+                "updatedAt": "2022-09-06T09:23:43.289Z",
+                "publishedAt": "2022-09-06T09:23:43.286Z"
+            }
+        },
+        {
+            "id": 9,
+            "attributes": {
+                "question": "Giving your carers feedback",
+                "answer": "<p>When looking for carers, you may have noticed a 5 star system. This is based on reviews given by clients such as yourself. As you probably know, a 5 star review can go a long way, and even help clients decide which carer to choose. That is why we ask that after a couple of visits, you leave a review, to help your carer find future work.</p><h2>How to leave feedback</h2><p>There are multiple ways to leave feedback for a carer. First of all you may already have a notification on your dashboard asking you to leave your carer some feedback.</p><p>Or you can go to one of your visits. From the visit details you will see your carer's profile picture, under that image, you will see a big blue button that says \"leave carer feedback\".</p><p>And the easiest way, is to simply click on the carer feedback tab in your dashboard. From there you can choose one of the carers you have contacted and leave them a review for others to see.</p><h2>Why leave feedback</h2><p>This feedback is not for you. This is for the carer that has been helping you. By leaving a review, not only do you show your appreciation towards your carer, but you also give them a better chance at finding more work in the future.</p>",
+                "audience": "client",
+                "slug": "giving-your-car",
+                "createdAt": "2022-09-06T09:24:40.866Z",
+                "updatedAt": "2022-09-06T09:24:42.689Z",
+                "publishedAt": "2022-09-06T09:24:42.684Z"
+            }
+        }
+    ],
+    "meta": {
+        "pagination": {
+            "page": 1,
+            "pageSize": 25,
+            "pageCount": 1,
+            "total": 9
+        }
+    }
+}
